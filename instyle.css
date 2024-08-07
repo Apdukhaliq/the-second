@@ -1,0 +1,104 @@
+
+
+.nav {
+    display: flex;
+    margin-left: 20px;
+    /* position: relative;
+    left: 250px; */
+    top: -30px;
+    
+}
+.ul{
+    display: flex;
+    list-style: none;
+    gap: 33px;
+    margin-left: 360px;
+
+}
+.nav{
+    
+    font-size: 20px;
+    color: black;
+    margin-left: 10px;
+
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: green;
+
+}
+
+.d1{
+   float: right;
+   
+   margin-right: 198px;
+   margin-top: -70px;
+}
+.d1 button{
+    width: 80px;
+    height: 40px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+   
+  
+}
+
+
+
+
+.d2{
+    float: right;
+    
+    margin-right: 108px;
+    margin-top: -70px;
+ }
+ .d2 button{
+     width: 80px;
+     height: 40px;
+     gap: 10px;
+     border: 2px solid green;
+     border-radius: 5px;
+   
+ }
+
+
+ .showcase{
+   background-image: url("phort.jpg");
+   height: 800px;
+   width: 100%;
+   background-position: center;
+   margin-top: 6px;
+  
+   
+ }
+
+
+ .god{
+    display: flex;
+    margin-top: 40px;
+    gap: 180px;
+ }
+
+.img img{
+    border-radius: 20px;
+    height: 20em;
+    
+}
+.img h3{
+    background-color: aqua;
+    width: 100px;
+    height: 20px;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    top: -30px;
+}
+
+.font{
+    margin-left: 30px;
+    
+
+}
